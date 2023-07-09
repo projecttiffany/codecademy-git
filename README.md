@@ -1,5 +1,3 @@
-# codecademy-git-test
+# codecademy-git
  
-Hello! 
-
-This is a Codeacademy Git tutorial
+A collection of Codeacademy projects for practice
